@@ -40,3 +40,9 @@ Tables
 Hyperlinks
 
 For more information [click here](https://www.hackerrank.com/)
+
+
+
+![image](https://ecommercegermany.com/wp-content/uploads/2024/06/EGN-supermarkets.jpg)
+
+
