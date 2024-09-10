@@ -19,3 +19,12 @@ Bullet Points:
   * point 2.2
     * point 2.2.1
     * point 2.2.2
+---
+Code Snippets
+```
+import datetime
+print('Hello world')
+print(datetime.datetime.now())
+for i in range(5):
+ print(i)
+```
